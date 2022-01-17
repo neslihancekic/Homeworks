@@ -1,0 +1,4 @@
+Min-Max Sort: T(n) = O(n^2)
+EMS: T(n) = O(nlgn)
+
+Min-Max + EMS : T(n) = O(n^2)
